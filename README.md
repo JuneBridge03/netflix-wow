@@ -1,3 +1,7 @@
+# 어 그래 형이야
+Netflix 메인화면 따라하기
+(CSS 구현 빡세다)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

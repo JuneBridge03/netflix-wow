@@ -1,0 +1,23 @@
+.row {
+    overflow: scroll;
+    display: flex;
+    flex-wrap: nowrap;
+    scrollbar-width: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.row-container {
+    margin: 10;
+}
+
+h3 {
+    padding-left: 20px;
+    color: #fff;
+}
+
+.row::-webkit-scrollbar {
+    display: none;
+}
